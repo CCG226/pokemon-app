@@ -1,0 +1,38 @@
+#move {
+  text-transform: capitalize;
+  font-weight: bolder;
+  font-size: 1.3em;
+  width: "20rem";
+}
+#cr {
+  color: lightgray;
+  font-size: 0.8em;
+}
+#sprite {
+  border: 15px solid silver;
+  width: 80%;
+  height: 20rem;
+}
+#title {
+  text-transform: capitalize;
+  width: "40rem";
+  font-size: 2em;
+}
+#hp {
+  font-weight: 100;
+
+  font-size: 1.7em;
+}
+#moveHit {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 1.3em;
+  width: "5rem";
+}
+#size {
+  width: "10rem";
+  font-size: 1.2em;
+}
+#type {
+  width: "5rem";
+}
